@@ -2,5 +2,3 @@
 dataset/
 .ipynb_checkpoints
 model/*.pth
-dataset.tar.xz
-dataset.7z
