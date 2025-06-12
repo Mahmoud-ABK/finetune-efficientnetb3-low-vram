@@ -23,8 +23,8 @@ dataset/
 │ ├── guide_dogs/
 │ └── non_guide_dogs/
 └── test/
-├── guide_dogs/
-└── non_guide_dogs/
+    ├── guide_dogs/
+    └── non_guide_dogs/
 ```
 
 ---
