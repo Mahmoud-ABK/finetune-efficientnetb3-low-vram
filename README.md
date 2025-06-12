@@ -51,5 +51,7 @@ dataset/
 
 Download and extract the dataset into a folder named `dataset` with the structure shown above.
 
+> All information are provided in the first Notebook `0_Introduction_Setup.ipynb`
+
 ---
 
