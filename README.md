@@ -1,6 +1,7 @@
 # Guide Dog Classifier
 
-Classify guide dogs vs non-guide dogs using EfficientNet-B3 and transfer learning. Optimized for GPUs with 4GB VRAM (e.g., RTX 3050 Ti).
+A deep learning project to classify guide dogs (e.g., Labrador Retrievers) vs non-guide dogs (e.g., Pugs) using EfficientNet-B3 and transfer learning, optimized for GPUs with low VRAM.
+
 
 ---
 
